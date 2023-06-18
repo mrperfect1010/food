@@ -22,3 +22,12 @@ img{
     width: 15rem;
     height: 25rem;
 }
+
+.row{
+    margin-top: 2rem;
+}
+
+.logo> img{
+    width: 6rem;
+    height: 6rem;
+}
