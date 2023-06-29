@@ -28,6 +28,36 @@ img{
 }
 
 .logo> img{
-    width: 6rem;
-    height: 6rem;
+    width: 3rem;
+    height: 3rem;
+}
+#contact{
+   background-color: #dc3545;
+}
+
+.map{
+    height: 20rem;
+    width: 100%;
+}
+ 
+#franchise{
+    background-color: #f4cfd5;
+}
+
+.logo2{
+    width: 5rem;
+    height: 5rem;
+}
+
+#items{
+    font-size: 30px;
+}
+
+#items >a {
+    text-decoration: none;
+    color:white
+}
+
+#footer1{
+    background-color:  #dc3545;
 }

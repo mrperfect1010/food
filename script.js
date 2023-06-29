@@ -28,9 +28,12 @@ $(document).ready(function(){
 
 
         let data= [
-            {image: "./image/9.png",discount:"50%",amt:1000,title:"greek salad"},
-            {image: "./image/7.png",discount:"50%",amt:5000,title:"Fried rice"},
-            {image: "./image/10.png",discount:"50%",amt:4000,title:"Spagehtti"},
+            {image: "./image/9.png",discount:"50%",amt:3500,title:"Fries with Salad"},
+            {image: "./image/7.png",discount:"50%",amt:5000,title:"Fried rice with chicken breast"},
+            {image: "./image/10.png",discount:"50%",amt:4000,title:"Spagehtti with Tomato sause"},
+            {image: "./image/3.png",discount:"50%",amt:6000,title:"Greek Salad"},
+            {image: "./image/5.png",discount:"50%",amt:3000,title:"Rice with Assorted Vegetable"},
+            {image: "./image/11.png",discount:"50%",amt:5500,title:"Chicken with meatballs"},
         ]
 
         data.map((item) =>{
