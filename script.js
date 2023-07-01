@@ -80,6 +80,7 @@ $(document).ready(function(){
         button.onclick= function(){
             // handler.openIframe();
             payment(item.amt)
+            
         
         }
 
@@ -91,3 +92,5 @@ $(document).ready(function(){
 
         })
      })
+
+

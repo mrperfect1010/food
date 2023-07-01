@@ -58,6 +58,17 @@ img{
     color:white
 }
 
+#items2 {
+    color:white;
+   
+}
+
+#items2 >h6{
+    color:white;
+    font-size: 15px;
+}
+
+
 #footer1{
     background-color:  #dc3545;
 }
